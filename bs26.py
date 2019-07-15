@@ -7,4 +7,4 @@ for mo in range(m+1,n):
                 break
         else:
             print(mo,end=" ")
-asgfsgfdg
+
